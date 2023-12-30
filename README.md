@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pratham
+- 👋 Hi, I’m Pratham Malji
 - 👀 I’m interested in js libraries
 - 🌱 I’m currently learning React
 
